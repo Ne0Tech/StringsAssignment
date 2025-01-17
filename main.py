@@ -8,6 +8,9 @@ print(modified_string)
 
 print(len(modified_string))
 
+
+
+
 user_input = input("Enter a string: ")
 
 processed_string = user_input.replace(" ", "").lower()
